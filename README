@@ -1,0 +1,6 @@
+Workspace for doing experiments with wgpu both natively and with WASM targets
+
+I used to not care about web technologies since you couldn't do that much with them.
+Now with WebGPU on the scene I can see a lot of scientific applications and good interfaces
+for measuring equipment to be all done on the web.
+
