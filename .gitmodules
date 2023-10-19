@@ -1,6 +1,8 @@
 [submodule "wgpu-experiments-mainapp"]
 	path = wgpu-experiments-mainapp
 	url = https://github.com/MosesAlexander/wgpu-experiments-mainapp.git
+	branch = master
 [submodule "wgpu-experiments-lib"]
 	path = wgpu-experiments-lib
 	url = https://github.com/MosesAlexander/wgpu-experiments-lib.git
+	branch = master
