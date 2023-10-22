@@ -18,10 +18,10 @@ Step 3a: Build and run native app:
 ```
 cargo run
 ```
-Step 3b: Build and run wasm32 target:
+Step 3b: Run this script to build wasm32 target:
 ```
-wasm-pack build wgpu-experiments-lib --target web
+./build-wasm.sh
 ```
-There is a wgpu_experiments.html file in wgpu-experiments-lib/pkg/
-Start a web server in that directory and open the html file.
+There is an index.html file in wgpu-experiments-lib/pkg/
+Start a web server in that directory and connect to it.
 You should get the rendered window in your browser.
