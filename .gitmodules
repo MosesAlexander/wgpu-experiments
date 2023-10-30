@@ -9,3 +9,4 @@
 [submodule "wgpu-experiments-server"]
 	path = wgpu-experiments-server
 	url = https://github.com/MosesAlexander/wgpu-experiments-server.git
+	branch = main

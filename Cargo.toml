@@ -4,4 +4,5 @@ resolver ="2"
 members = [
     "wgpu-experiments-lib",
 	"wgpu-experiments-mainapp",
+	"wgpu-experiments-server",
 ]
