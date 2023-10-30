@@ -6,3 +6,6 @@
 	path = wgpu-experiments-lib
 	url = https://github.com/MosesAlexander/wgpu-experiments-lib.git
 	branch = master
+[submodule "wgpu-experiments-server"]
+	path = wgpu-experiments-server
+	url = https://github.com/MosesAlexander/wgpu-experiments-server.git
